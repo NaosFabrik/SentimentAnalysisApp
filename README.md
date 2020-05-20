@@ -1,7 +1,13 @@
 # SentimentAnalysisApp
 trial NLP App with Sentimental Analysis for Quotes
 
-# Sentiment Analysis
+# Background
+
+# 1. Data Collection
+
+# 2. Model
+
+## Sentiment Analysis
 ### VADER (Valence Aware Dictionary and sEntiment Reasoner)
 - lexicon and rule-based sentiment analysis tool. 
 - original paper:[ VADER: A Parsimonious Rule-based Model for
