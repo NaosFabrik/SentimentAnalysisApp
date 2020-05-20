@@ -2,6 +2,7 @@
 trial NLP App with Sentimental Analysis for Quotes
 
 # Background
+Built the app based on the Udemy class "[Build a Web Application with Python, Flask and NLP](https://www.udemy.com/course/build-a-web-application-with-python-flask-and-nlp/)"
 
 # 1. Data Collection
 
