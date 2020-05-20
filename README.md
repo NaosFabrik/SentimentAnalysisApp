@@ -13,4 +13,8 @@ Built the app based on the Udemy class "[Build a Web Application with Python, Fl
 - lexicon and rule-based sentiment analysis tool. 
 - original paper:[ VADER: A Parsimonious Rule-based Model for
 Sentiment Analysis of Social Media Text](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
-- package is available: https://github.com/cjhutto/vaderSentiment
+- github package is available: https://github.com/cjhutto/vaderSentiment
+
+```
+nltk.download('vader_lexicon')
+```
