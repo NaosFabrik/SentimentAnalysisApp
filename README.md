@@ -18,3 +18,7 @@ Sentiment Analysis of Social Media Text](http://comp.social.gatech.edu/papers/ic
 ```
 nltk.download('vader_lexicon')
 ```
+## the building blocks necessary 
+- grand vision
+- quote stash
+- sentiment algorithm
